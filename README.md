@@ -1,7 +1,7 @@
 ## Java Calculator APP
 A calculator application for desktop built with java
 
-[demo]()
+![demo](https://github.com/Tomi-3-0/java-calculator-APP/blob/main/Screenshot%20(379).png)
 
 ### To run
 
