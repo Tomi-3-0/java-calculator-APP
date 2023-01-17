@@ -7,5 +7,5 @@ A calculator application for desktop built with java
 
 1.  Clone or download this repository
 2.  Run `cd src`
-3.  Run `javac Calculator.main`
+3.  Run `javac Calculator.java`
 4.  Lastly run `java Calculator`
